@@ -200,7 +200,8 @@ Do not cite the repository as a monolith.
 
 ---
 
-## Contact
+Hollow House Institute Ethical AI · Relational Intelligence · Governed Analysis. Hollow House Institute Structured Human Intelligence
 
-Hollow House Institute  
-Research Division
+Website: https://hollowhouseinstitute.com Datasets: https://hollowhouseinstitute.com/datasets Licensing: https://hollowhouseinstitute.com/licensing
+
+Contact: data@hollowhouseinstitute.com
