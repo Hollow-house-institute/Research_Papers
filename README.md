@@ -113,4 +113,6 @@ https://hollowhouseinstitute.com
 
 ⸻
 
-© Hollow House Institute. All rights reserved.
+© Hollow House Institute. All rights
+
+reserved.
