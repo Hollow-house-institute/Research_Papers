@@ -1,202 +1,116 @@
-[![Governed by Hollow House Institute](https://img.shields.io/badge/Governed%20by-Hollow%20House%20Institute-black?style=flat-square)](https://github.com/hollowhouseinstitute/
-![Status](https://img.shields.io/badge/Status-ACTIVE-grey?style=flat-square)
+# Hollow House Institute — Research Archive
 
-## Governance & Canonical Authority
+> Time turns behavior into infrastructure.  
+> Behavior is the most honest data there is.
 
-This repository is a downstream research execution repository of the
-**Hollow House Institute**.
+This repository is the **official research archive** of the Hollow House Institute (HHI).
 
-Canonical governance, ethical guidelines, standards, licensing, and
-cross-repository coordination are maintained in:
+It contains formal research reports, methodological papers, analytical frameworks,
+and protocol studies derived from long-horizon behavioral observation and systems analysis.
 
-🏛 **Hollow_House_Institute**  
-https://github.com/hollowhouseinstitute/Hollow_House_Institute
-
-This repository follows the Institute’s canonical research chronology:
-
-0_ADMIN → 1_THEORY → 2_PROTOCOLS → 3_DATASETS →  
-4_ANALYSIS → 5_PAPERS → 6_TOOLS → 7_APPENDIX
-
-
-The structure is designed to enforce:
-- Conceptual separation
-- Auditability
-- Reproducibility
-- Ethical containment
-
-No single directory represents a complete research artifact on its own.
-Validity emerges from the **pipeline**, not individual files.
+These works convert lived behavioral signal into **structured, auditable research artifacts**.
 
 ---
 
-## Repository Structure (Authoritative)
+## Scope of This Repository
 
-### `0_ADMIN/`
-Administrative and governance materials.
-Includes ethical guidelines, glossary, paper templates, and research conventions.
+This archive includes research covering, but not limited to:
 
-Purpose:
-- Define boundaries
-- Standardize practice
-- Prevent methodological drift
+- **Hollow Light Framework**  
+- **House of Mirrors Methodology**  
+- **Split Processor Studies**  
+- **Collapse Mechanics & Recovery Dynamics**  
+- **Relational Linguistics Schemas**  
+- **Affective Resonance Testing**  
+- **Field-Based Cognition Theory**  
+- **Protocol Mapping & Governance Pipelines**
 
----
-
-### `1_THEORY/`
-Canonical theoretical foundations.
-
-Contains:
-- Unified theory documents
-- Formal definitions
-- Axioms and constraints
-
-Rules:
-- Theory is written once, referenced everywhere
-- No experimental results appear here
-- Changes are rare and deliberate
+Each report is treated as **infrastructure research**, not opinion or narrative writing.
 
 ---
 
-### `2_PROTOCOLS/`
-Operational research protocols.
+## Research Position
 
-Contains:
-- Annotation rules
-- Collapse mechanics
-- Mapping conventions
-- Procedural safeguards
+**Time turns behavior into infrastructure.**
 
-Rules:
-- Protocols govern how work is done
-- Protocols do not interpret outcomes
+Repeated behavioral patterns—when observed over time—solidify into governing structures.
+These structures shape cognition, systems, institutions, and AI behavior.
 
----
+**Behavior is the most honest data there is.**
 
-### `3_DATASETS/`
-Datasets and dataset documentation.
-
-Contains:
-- Dataset specifications
-- Annotation protocols
-- Experimental designs
-- Dataset-specific subfolders
-
-Rules:
-- Datasets are immutable once frozen
-- Documentation must precede analysis
-- No conclusions are drawn here
+Accordingly, Hollow House Institute research prioritizes:
+- Observable behavior over self-report or intent
+- Temporal patterning over isolated events
+- Structural outcomes over interpretive narrative
 
 ---
 
-### `4_ANALYSIS/`
-Analytical methods and pattern-detection tools.
+## Repository Structure
 
-Contains:
-- Analysis frameworks
-- Structural pattern methods
-- Case analyses
-- Chronologies
+Typical structure:
+/reports
+/YYYY
+HHI-REPORT--.pdf
+HHI-REPORT--.md
+metadata.yaml
 
-Rules:
-- Analysis operates on datasets only
-- No new data is introduced
-- Claims must trace to explicit evidence
-
----
-
-### `5_PAPERS/`
-Research papers and drafts.
-
-Contains:
-- Draft papers
-- Canonical papers
-- Status tracking
-- Exemplars
-
-Rules:
-- Drafts are mutable
-- Top-level papers are considered stable
-- Each paper must reference datasets, analysis, and theory explicitly
+/0_ADMIN
+governance notes
+release records
+All reports are versioned, attributable, and governed.
 
 ---
 
-### `6_TOOLS/`
-Supporting tools and workflows.
+## Metadata Requirements
 
-Contains:
-- Batch processing documentation
-- Extraction workflows
-- Labeling guides
-- Assistant usage constraints
+Each report must include a `metadata.yaml` containing:
 
-Rules:
-- Tools assist; they do not decide
-- No tool encodes interpretation
-- All tooling must be auditable
+```yaml
+title: "<report title>"
+author: "Hollow House Institute"
+version: "vX.X.X"
+date: "YYYY-MM-DD"
+frameworks:
+  - Hollow Light
+  - House of Mirrors
+doctrine:
+  core_principle: "Time turns behavior into infrastructure"
+  data_axiom: "Behavior is the most honest data there is"
+license: "Hollow House Institute Master License Suite"
 
----
+Governance & Licensing
 
-### `7_APPENDIX/`
-Supplementary and supporting material.
+This repository is governed by the Hollow House Institute Master License Suite.
 
-Contains:
-- Diagrams
-- Worked examples
-- Lineage maps
-- Archived materials
+Key conditions:
+	•	No AI training or model ingestion without explicit license grant
+	•	No derivative publication without attribution
+	•	No reframing or removal of doctrinal statements
+	•	Commercial or institutional use requires written agreement
 
-Rules:
-- No new claims introduced
-- Materials support, but do not replace, main texts
+When referencing this work:
+Hollow House Institute.
+“<Report Title>.”
+Version X.X.X, Year.
 
----
+Authority & Inheritance
 
-## Research Pipeline (Normative)
+This repository inherits authority from:
+	•	HHI organization-level governance (.github)
+	•	HHI Dataset & Research Doctrine
+	•	HHI Licensing Framework
 
-1. Theory definition (`1_THEORY`)
-2. Protocol specification (`2_PROTOCOLS`)
-3. Dataset creation (`3_DATASETS`)
-4. Analysis execution (`4_ANALYSIS`)
-5. Paper drafting (`5_PAPERS`)
-6. Tool-assisted verification (`6_TOOLS`)
-7. Supplementary support (`7_APPENDIX`)
+Where conflicts arise, organizational doctrine supersedes local interpretation.
+All redistributed copies must retain:Hollow House Institute  
+Structured Human Intelligence  
+Time turns behavior into infrastructure.
+Contact
 
-Deviation from this order must be explicitly justified.
+Research, licensing, or institutional inquiries:
 
----
+data@hollowhouseinstitute.com
+https://hollowhouseinstitute.com
 
-## Contribution Principles
+⸻
 
-- Clarity over completeness
-- Constraint over expressiveness
-- Transparency over optimization
-- Preservation over erasure
-
-Ambiguity is documented, not resolved prematurely.
-
----
-
-## Status
-
-This repository is **active**.
-Structural changes are rare and require justification.
-Content additions should respect existing boundaries.
-
----
-
-## Citation
-
-If citing this repository, reference:
-- The specific paper
-- The dataset version
-- The analysis method used
-
-Do not cite the repository as a monolith.
-
----
-
-Hollow House Institute Ethical AI · Relational Intelligence · Governed Analysis. Hollow House Institute Structured Human Intelligence
-
-Website: https://hollowhouseinstitute.com Datasets: https://hollowhouseinstitute.com/datasets Licensing: https://hollowhouseinstitute.com/licensing
-
-Contact: data@hollowhouseinstitute.com
+© Hollow House Institute. All rights reserved.
