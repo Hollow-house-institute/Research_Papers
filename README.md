@@ -108,7 +108,7 @@ Contact
 
 Research, licensing, or institutional inquiries:
 
-data@hollowhouseinstitute.com
+data@hollowhouse.org
 https://hollowhouseinstitute.com
 
 ⸻
