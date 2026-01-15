@@ -28,7 +28,13 @@ This archive includes research covering, but not limited to:
 Each report is treated as **infrastructure research**, not opinion or narrative writing.
 
 ---
+## Governance Definitions
 
+Key terms used in this repository (e.g., *behavioral drift*, *decision substitution*, *escalation decay*)
+are defined in the **HHI Governance Glossary**.
+
+Canonical definitions:
+https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md
 ## Research Position
 
 **Time turns behavior into infrastructure.**
