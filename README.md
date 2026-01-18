@@ -122,3 +122,13 @@ https://hollowhouseinstitute.com
 © Hollow House Institute. All rights
 
 reserved.
+---
+
+## Governance Authority
+
+This repository operates under the canonical governance standard:
+
+**HHI-GOV-01 — Longitudinal Governance Infrastructure**  
+https://github.com/hollowhouseinstitute/HHI-GOV-01
+
+Governance authority is singular. No local policy supersedes HHI-GOV-01.
