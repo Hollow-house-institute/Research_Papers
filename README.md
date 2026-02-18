@@ -15,23 +15,13 @@ All terminology is bound to the HHI Governance Glossary.
 ## Governance Diagram
 
 flowchart TD
-
-%% Governance Alignment
-
-subgraph Internal_and_Public_Site["Internal &#38; Public Site"]
-    A[Canonical Standards]
-    B[Governance Artifacts]
-end
-
-subgraph Enforcement_Layer["Licensing &#38; Enforcement"]
-    C[Master License Suite]
-    D[Usage Constraints]
-end
-
-A --> B
-B --> C
-C --> D
-
+  A[Hollow House Institute Doctrine] --> B[Hollow House Standards Library]
+  B --> C[HHI_GOV_01 - Execution Governance]
+  B --> D[HHI_LUL_01 - Language Licensing]
+  D --> E[Master License Suite - Legal Enforcement]
+  C --> F[Datasets and Systems]
+  C --> G[Audits and Oversight]
+  C --> H[Academy and Site]
 ## Governance Alignment
 
 This repository operates under the Hollow House Institute governance framework.
