@@ -13,6 +13,7 @@ All terminology is bound to the HHI Governance Glossary.
 - HHI-MLS — Master License Suite
 
 ## Governance Diagram
+
 ```mermaid
 flowchart TD
   A[Hollow House Institute Doctrine] --> B[Hollow House Standards Library]
@@ -22,6 +23,7 @@ flowchart TD
   C --> F[Datasets and Systems]
   C --> G[Audits and Oversight]
   C --> H[Academy and Site]
+
 ## Governance Alignment
 
 This repository operates under the Hollow House Institute governance framework.
