@@ -14,15 +14,6 @@ All terminology is bound to the HHI Governance Glossary.
 
 ## Governance Diagram
 
-```mermaid
-flowchart TD
-  A[Hollow House Institute Doctrine] --> B[Hollow House Standards Library]
-  B --> C[HHI_GOV_01 - Execution Governance]
-  B --> D[HHI_LUL_01 - Language Licensing]
-  D --> E[Master License Suite - Legal Enforcement]
-  C --> F[Datasets and Systems]
-  C --> G[Audits and Oversight]
-  C --> H[Academy and Site]
 
 ## Governance Alignment
 
