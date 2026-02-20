@@ -29,17 +29,6 @@ All terminology is bound to the HHI Governance Glossary.
 - RCS-444A — Research Continuity Standard
 - HHI-MLS — Master License Suite
 
-## Governance Diagram
-
-```mermaid
-flowchart TD
-  A[Hollow House Institute Doctrine] --> B[Hollow House Standards Library]
-  B --> C[HHI_GOV_01 - Execution Governance]
-  B --> D[HHI_LUL_01 - Language Licensing]
-  D --> E[Master License Suite - Legal Enforcement]
-  C --> F[Datasets & Systems]
-  C --> G[Audits & Oversight]
-  C --> H[Academy & Public Site]
 
 # Hollow House Institute — Research Archive
 
