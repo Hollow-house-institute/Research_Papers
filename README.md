@@ -1,4 +1,36 @@
-# Research Papers
+## Governance Alignment
+
+This repository operates under the Hollow House Institute governance framework.
+All terminology is bound to the HHI Governance Glossary.
+
+### Standards Referenced
+- HHI Governance Glossary
+- HHI_SPEC_002 — Terminology Governance
+- HHI_SPEC_003 — Repository Governance
+- HHI_GOV_01 — Execution Governance
+- CCS-444A — Continuity Compliance Standard
+- RCS-444A — Research Continuity Standard
+- HHI-MLS — Master License Suite
+
+## Governance Diagram
+
+
+## Governance Alignment
+
+This repository operates under the Hollow House Institute governance framework.
+All terminology is bound to the HHI Governance Glossary.
+
+### Standards Referenced
+- HHI Governance Glossary
+- HHI_SPEC_002 — Terminology Governance
+- HHI_SPEC_003 — Repository Governance
+- HHI_GOV_01 — Execution Governance
+- CCS-444A — Continuity Compliance Standard
+- RCS-444A — Research Continuity Standard
+- HHI-MLS — Master License Suite
+
+
+# Hollow House Institute — Research Archive
 
 Role: Supporting research corpus (citations and background)  
 Authority Tier: Tier 2 (Reference & Research)  
@@ -55,4 +87,17 @@ Non-authoritative by design.
 
 ---
 
-End of file.
+## Governance Authority
+
+This repository operates under the canonical governance standard:
+
+**HHI-GOV-01 — Longitudinal Governance Infrastructure**  
+https://github.com/hollowhouseinstitute/HHI-GOV-01
+
+Governance authority is singular. No local policy supersedes HHI-GOV-01.
+
+## Governance
+
+This repository inherits governance authority from the **HHI Governance Export — Core**.
+
+All execution, datasets, research, and audits are bound to its standards and constraints.
