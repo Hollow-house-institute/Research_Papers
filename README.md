@@ -32,128 +32,59 @@ All terminology is bound to the HHI Governance Glossary.
 
 # Hollow House Institute — Research Archive
 
-> Time turns behavior into infrastructure.  
-> Behavior is the most honest data there is.
+Role: Supporting research corpus (citations and background)  
+Authority Tier: Tier 2 (Reference & Research)  
+Depends On: None (references may inform; does not define authority)  
+Does Not Define: Canonical terminology, governance rules, licensing terms, datasets  
+Governance Status: Supporting
 
-This repository is the **official research archive** of the Hollow House Institute (HHI).
-
-It contains formal research reports, methodological papers, analytical frameworks,
-and protocol studies derived from long-horizon behavioral observation and systems analysis.
-
-These works convert lived behavioral signal into **structured, auditable research artifacts**.
-
----
-
-## Scope of This Repository
-
-This archive includes research covering, but not limited to:
-
-- **Hollow Light Framework**  
-- **House of Mirrors Methodology**  
-- **Split Processor Studies**  
-- **Collapse Mechanics & Recovery Dynamics**  
-- **Relational Linguistics Schemas**  
-- **Affective Resonance Testing**  
-- **Field-Based Cognition Theory**  
-- **Protocol Mapping & Governance Pipelines**
-
-Each report is treated as **infrastructure research**, not opinion or narrative writing.
-
----
-## Governance Definitions
-
-Key terms used in this repository (e.g., *behavioral drift*, *decision substitution*, *escalation decay*)
-are defined in the **HHI Governance Glossary**.
-
-Canonical definitions:
-https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md
-## Research Position
-
-**Time turns behavior into infrastructure.**
-
-Repeated behavioral patterns—when observed over time—solidify into governing structures.
-These structures shape cognition, systems, institutions, and AI behavior.
-
-**Behavior is the most honest data there is.**
-
-Accordingly, Hollow House Institute research prioritizes:
-- Observable behavior over self-report or intent
-- Temporal patterning over isolated events
-- Structural outcomes over interpretive narrative
+Authority Links:
+- Hollow_House_Standards_Library (canonical definitions authority)
+- SPEC-003 Repository Governance & Authority Order (HHI-SPEC-003)
 
 ---
 
-## Repository Structure
+## Purpose
 
-Typical structure:
-/reports
-/YYYY
-HHI-REPORT--.pdf
-HHI-REPORT--.md
-metadata.yaml
+This repository maintains a curated collection of research materials used to
+support Hollow House Institute governance work.
 
-/0_ADMIN
-governance notes
-release records
-All reports are versioned, attributable, and governed.
+It exists to:
+- provide background and citations
+- inform analysis without asserting authority
+- support public and internal reference needs
 
 ---
 
-## Metadata Requirements
+## Scope
 
-Each report must include a `metadata.yaml` containing:
+This repository may include:
+- bibliographies and reading lists
+- PDFs or links (where licensing permits)
+- topic-organized research notes
 
-```yaml
-title: "<report title>"
-author: "Hollow House Institute"
-version: "vX.X.X"
-date: "YYYY-MM-DD"
-frameworks:
-  - Hollow Light
-  - House of Mirrors
-doctrine:
-  core_principle: "Time turns behavior into infrastructure"
-  data_axiom: "Behavior is the most honest data there is"
-license: "Hollow House Institute Master License Suite"
+This repository does not:
+- define canonical terminology
+- establish governance standards or controls
+- issue audit findings or conclusions
+- certify AI systems, models, or organizations
 
-Governance & Licensing
+---
 
-This repository is governed by the Hollow House Institute Master License Suite.
+## Authority Boundaries
 
-Key conditions:
-	•	No AI training or model ingestion without explicit license grant
-	•	No derivative publication without attribution
-	•	No reframing or removal of doctrinal statements
-	•	Commercial or institutional use requires written agreement
+Research informs understanding but does not establish governance authority.
 
-When referencing this work:
-Hollow House Institute.
-“<Report Title>.”
-Version X.X.X, Year.
+All canonical definitions remain upstream in the
+Hollow_House_Standards_Library.
 
-Authority & Inheritance
+---
 
-This repository inherits authority from:
-	•	HHI organization-level governance (.github)
-	•	HHI Dataset & Research Doctrine
-	•	HHI Licensing Framework
+## Status
 
-Where conflicts arise, organizational doctrine supersedes local interpretation.
-All redistributed copies must retain:Hollow House Institute  
-Structured Human Intelligence  
-Time turns behavior into infrastructure.
-Contact
+Tier 2 supporting reference repository.  
+Non-authoritative by design.
 
-Research, licensing, or institutional inquiries:
-
-data@hollowhouse.org
-https://hollowhouseinstitute.com
-
-⸻
-
-© Hollow House Institute. All rights
-
-reserved.
 ---
 
 ## Governance Authority
