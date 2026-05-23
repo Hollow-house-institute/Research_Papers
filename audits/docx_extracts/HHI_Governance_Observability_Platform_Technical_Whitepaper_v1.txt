@@ -1250,7 +1250,7 @@ governance value:
                     governance         execution layer        
                     workflows                                 
 
-  Audit and         Requires           Replayable,            Replayable
+  Audit and         Depends on         Replayable,            Replayable
   Assurance Team    execution-level    full-fidelity session  Oversight;
                     evidence trails    records enabling       session export;
                     for internal and   post-hoc examination   attestation chain
