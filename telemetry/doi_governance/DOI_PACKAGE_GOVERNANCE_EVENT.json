@@ -1,0 +1,33 @@
+{
+  "event_type": "doi_package_governance_embedding",
+  "timestamp": "2026-05-23T16:07:07Z",
+  "repository": "Research_Papers",
+  "governance_focus": [
+    "governed_publication_infrastructure",
+    "portable_governance_metadata",
+    "publication_control_operationalization",
+    "interoperability_boundary_embedding",
+    "review_survivability_hardening",
+    "replay_capable_publication_lineage"
+  ],
+  "doi_packages": [
+    "papers/military_ai_governance",
+    "papers/hhi_governance_observability_platform_v1"
+  ],
+  "embedded_controls": [
+    "EU_AI_ACT_MAPPING_REVIEW_GUARDRAILS.md",
+    "CANONICAL_STANDARDS_BIBLIOGRAPHY.md",
+    "CITATION_APPENDIX_NORMALIZATION.md",
+    "ROLE_SEPARATION_AND_LEGAL_BOUNDARY.md",
+    "NOT_LEGAL_ADVICE_FOOTER.md",
+    "WHITEPAPER_ALIGNMENT_CHECKLIST.md"
+  ],
+  "commit_chain": [
+    "52beda8",
+    "6d23c33",
+    "271e673",
+    "2508c8e",
+    "a01f97f"
+  ],
+  "boundary_statement": "HHI DOI publication packages now preserve governance assurance boundaries, interoperability controls, replay-capable evidence continuity, and operational/legal scope separation."
+}
