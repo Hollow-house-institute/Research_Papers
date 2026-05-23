@@ -35,3 +35,11 @@ The standards and EU AI Act mappings in this package are operational governance 
 
 For EU AI Act references, use canonical titles: Article 9 — Risk Management System; Article 12 — Record-Keeping. Runtime telemetry, replay continuity, checksum-bound evidence, Behavioral Drift Monitoring, and Stop Authority evidence should be described as supporting or operationalizing governance objectives, not as directly mandated technical implementations.
 
+## Publication Review Controls
+
+- Citation appendix normalization: `governance/review/CITATION_APPENDIX_NORMALIZATION.md`
+- Canonical standards bibliography: `governance/standards/CANONICAL_STANDARDS_BIBLIOGRAPHY.md`
+- Role separation and legal boundary: `governance/legal/ROLE_SEPARATION_AND_LEGAL_BOUNDARY.md`
+- Standard legal footer: `papers/_shared/NOT_LEGAL_ADVICE_FOOTER.md`
+
+All standards crosswalks should be treated as illustrative interoperability mappings. HHI runtime governance infrastructure supports governance assurance, traceability, and operational evidence continuity. It does not independently determine legal compliance.
