@@ -53,3 +53,10 @@ https://orcid.org/0009-0009-4806-1949
 Author:
 Amy Pierce Bui
 Founder, Hollow House Institute
+
+## Regulatory Mapping Boundary
+
+The standards and EU AI Act mappings in this package are operational governance interpretations, not legal conclusions or direct statutory equivalence claims. HHI runtime governance infrastructure is designed to support traceability, replay-capable accountability, lifecycle risk observability, and operational assurance. It does not independently certify compliance, replace legal review, replace organizational governance programs, eliminate governance risk, or guarantee regulatory approval.
+
+For EU AI Act references, use canonical titles: Article 9 — Risk Management System; Article 12 — Record-Keeping. Runtime telemetry, replay continuity, checksum-bound evidence, Behavioral Drift Monitoring, and Stop Authority evidence should be described as supporting or operationalizing governance objectives, not as directly mandated technical implementations.
+

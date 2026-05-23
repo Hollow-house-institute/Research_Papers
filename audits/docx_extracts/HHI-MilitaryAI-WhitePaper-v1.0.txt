@@ -1,0 +1,629 @@
+Hollow House Institute
+
+Government and Military Use of Artificial Intelligence:
+
+A Governance-First Framework for Responsible Deployment
+
+A White Paper on Strategic Risk, Oversight, and International Norms
+
+Version 1.0 | May 2026
+
+Zenodo Metadata — Complete Before Upload
+
+⚠ Fill in all bracketed fields before submitting to Zenodo. Do not
+publish with placeholder values.
+
+  -----------------------------------------------------------------------
+  Author(s)                           [AUTHOR NAME]
+  ----------------------------------- -----------------------------------
+  Affiliation                         Hollow House Institute
+
+  ORCID                               [0000-0000-0000-0000]
+
+  Email                               [[email protected]]
+
+  DOI                                 [To be assigned upon upload]
+
+  Zenodo Record                       [To be assigned]
+
+  License                             Creative Commons Attribution 4.0
+                                      International (CC BY 4.0)
+
+  Keywords                            artificial intelligence, military
+                                      AI, autonomous weapons, AI
+                                      governance, international
+                                      humanitarian law, responsible AI,
+                                      national security
+
+  Publication Type                    White Paper
+
+  Access                              Open Access
+  -----------------------------------------------------------------------
+
+Abstract
+
+Artificial intelligence is rapidly transforming military and national
+security capabilities — from intelligence analysis and logistics to
+autonomous systems and cyber operations. This white paper examines the
+dual imperative facing governments: maintaining strategic advantage
+while preventing misuse, escalation, and systemic harm. Drawing on a
+governance-first framework, the paper surveys current and emerging
+military AI use cases across intelligence, surveillance and
+reconnaissance, command and control, autonomous systems, and cyber and
+information operations. It maps the technical, ethical, legal, and
+geopolitical risk landscape, and proposes a lifecycle governance model
+encompassing requirements, design, testing, deployment, and
+decommissioning. The paper articulates core principles — lawfulness,
+responsibility, reliability, and democratic accountability — and
+translates them into institutional mechanisms and international
+norm-building measures. Policy recommendations are directed at national
+governments, defense ministries, and multilateral bodies. The central
+argument is that responsible military AI governance is not merely a
+technical challenge but a constitutional, ethical, and geopolitical one.
+States that lead on governance will shape the norms that all actors
+eventually must live with.
+
+Keywords: artificial intelligence · military AI · autonomous weapons
+systems · AI governance · international humanitarian law · responsible
+AI · national security policy
+
+Hollow House Institute
+
+Government & Military AI
+
+1. Executive Summary
+
+Artificial intelligence is rapidly transforming military and security
+capabilities — from intelligence analysis and logistics to autonomous
+systems and cyber operations. Governments face a dual imperative:
+maintain strategic advantage while preventing misuse, escalation, and
+systemic harm.
+
+This white paper outlines:
+
+- Current and emerging military AI use cases across all operational
+  domains
+
+- Key risks spanning technical, ethical, legal, and geopolitical
+  dimensions
+
+- Governance and oversight mechanisms appropriate to the nature and
+  stakes of military AI
+
+- Policy and standards recommendations for responsible, accountable
+  deployment
+
+Core Argument: Responsible military AI governance is not merely a
+technical challenge — it is a constitutional, ethical, and geopolitical
+imperative. States that lead on governance will shape the norms that all
+actors eventually must live with.
+
+2. Context and Drivers
+
+The accelerating integration of AI into national security operations is
+driven by a convergence of strategic, technological, and political
+forces. Understanding these drivers is essential to designing governance
+frameworks that are both effective and durable.
+
+- Strategic competition: States view AI as a decisive enabler for
+  deterrence, power projection, and decision superiority. The perception
+  that rivals are investing heavily in military AI creates powerful
+  incentives to accelerate domestic programs, often ahead of adequate
+  oversight structures.
+
+- Data and compute abundance: Intelligence, surveillance, and
+  reconnaissance (ISR) data, satellite feeds, and cyber telemetry now
+  exceed human analytic capacity by orders of magnitude. AI offers the
+  only scalable means of deriving actionable insight from this volume
+  and velocity of information.
+
+- Political pressure: Leaders are incentivized to demonstrate they are
+  not falling behind rivals in the AI competition, creating conditions
+  in which deployment timelines routinely outpace the development of
+  governance frameworks, safety validation, and legal review.
+
+These drivers operate simultaneously and reinforce one another,
+producing a systemic bias toward faster adoption and a corresponding
+underinvestment in the institutional infrastructure needed to govern AI
+responsibly at scale.
+
+3
+
+Hollow House Institute
+
+Government & Military AI
+
+3. Core Military AI Use Cases
+
+Military AI applications span the full spectrum of operations, from
+strategic intelligence to tactical engagement. The following use cases
+represent the most consequential and widely deployed categories as of
+2026, and are the primary subject of governance concern.
+
+3.1 Intelligence, Surveillance, and Reconnaissance (ISR)
+
+AI has become foundational to ISR operations, enabling the processing
+and analysis of data streams that no human workforce could manage
+manually. Key applications include:
+
+- Pattern recognition: Object detection and classification in satellite
+  imagery, drone video feeds, and synthetic aperture radar — identifying
+  vehicles, fortifications, troop movements, and infrastructure changes
+  at scale.
+
+- Signal and cyber intelligence: Anomaly detection within communications
+  traffic, network behavioral analysis, and automated attribution of
+  cyber intrusion activity.
+
+- Threat prediction: Predictive models trained on historical and
+  real-time data to forecast force movements, escalation indicators, and
+  adversary decision patterns.
+
+3.2 Command, Control, and Decision Support
+
+AI is increasingly embedded in the decision-support layer of military
+command architectures, with significant implications for the speed and
+nature of military decision-making:
+
+- Decision-support systems: Automated course-of-action (COA) analysis,
+  wargaming simulation, logistics optimization, and resource allocation
+  modelling to support commanders under time pressure.
+
+- Battlefield awareness: Real-time fusion of multi-domain sensor data
+  across land, sea, air, cyber, and space domains, presented in unified
+  operational pictures with AI-generated assessments and
+  recommendations.
+
+3.3 Autonomous and Semi-Autonomous Systems
+
+The development and deployment of autonomous systems represents the most
+ethically contested frontier of military AI, engaging fundamental
+questions of legal compliance and human responsibility:
+
+- Uncrewed aerial, surface, and underwater vehicles employed for
+  reconnaissance, electronic warfare, logistics resupply, and — in some
+  configurations — kinetic strike missions.
+
+- Loitering munitions and collaborative drone swarms with varying and
+  sometimes graduated degrees of autonomous target selection and
+  engagement authority.
+
+3.4 Cyber and Information Operations
+
+- Offensive capabilities: Automated vulnerability discovery, exploit
+  generation, and adaptive intrusion systems operating at machine speed.
+
+- Defensive AI: Intrusion detection and response, automated patch
+  deployment, and the creation of adaptive deception environments
+  (honeypots, decoy networks) to mislead adversaries.
+
+- Information operations: Synthetic media generation, micro-targeted
+  influence campaigns, and counter-disinformation tools designed to
+  detect and degrade adversarial narratives at scale.
+
+  -----------------------------------------------------------------------
+  Use Case Domain         Primary Function        Key Governance Concern
+  ----------------------- ----------------------- -----------------------
+  ISR                     Data analysis, pattern  Accuracy, bias,
+                          recognition, threat     over-reliance on AI
+                          prediction              assessments
+
+  Command & Control       Decision support,       Automation bias,
+                          logistics, battlefield  speed-accuracy
+                          awareness               trade-offs
+
+  Autonomous Systems      Reconnaissance, strike, Human control, IHL
+                          electronic warfare      compliance,
+                                                  accountability
+
+  Cyber & Info Ops        Intrusion, defense,     Escalation risk,
+                          influence               proportionality,
+                                                  attribution
+  -----------------------------------------------------------------------
+
+4
+
+Hollow House Institute
+
+Government & Military AI
+
+4. Risk Landscape
+
+The risks associated with military AI are multi-dimensional and mutually
+reinforcing. Effective governance must address each category,
+recognising that failures in one domain typically compound risks in
+others.
+
+4.1 Technical and Operational Risks
+
+- Model brittleness and classification error: AI systems trained on
+  historical or synthetic data may fail unpredictably under novel
+  operational conditions — misclassifying civilians as combatants,
+  friendly vehicles as adversary assets, or benign activity as
+  threatening.
+
+- Data quality and systemic bias: Skewed, incomplete, or adversarially
+  manipulated training data can produce AI outputs that are
+  systematically unreliable or discriminatory in ways that are difficult
+  to detect until harm has occurred.
+
+- Human–machine teaming failures: Automation bias — the tendency to
+  over-trust AI outputs — is a well-documented failure mode. Conversely,
+  under-trust or poor interface design can cause operators to ignore
+  accurate AI alerts, undermining the value of the system entirely.
+
+4.2 Ethical and Legal Risks
+
+- Accountability gaps: Existing legal frameworks assign responsibility
+  for unlawful harm to identifiable human actors. When AI systems
+  contribute to lethal decisions across complex kill chains, the
+  diffusion of responsibility creates gaps that current law does not
+  adequately fill.
+
+- Compliance with international humanitarian law (IHL): The IHL
+  principles of distinction (between combatants and civilians),
+  proportionality (in collateral harm), and precaution (in attack
+  planning) require human judgement that autonomous systems may be
+  incapable of reliably exercising in complex or ambiguous environments.
+
+- Dignity and the limits of delegation: The delegation of life-and-death
+  decisions to machine systems raises profound ethical questions about
+  the moral weight of human life and whether such delegation is
+  compatible with the foundational values of international law and
+  democratic societies.
+
+4.3 Strategic and Geopolitical Risks
+
+- Arms race dynamics: Competitive pressure to deploy immature or
+  inadequately tested systems to avoid perceived strategic disadvantage
+  creates a race-to-the-bottom on safety and governance that is
+  difficult for any single state to exit unilaterally.
+
+- Escalation and miscalculation: The speed and opacity of AI-enabled
+  military systems in crisis scenarios increases the risk of unintended
+  escalation — particularly when adversaries cannot accurately interpret
+  or attribute AI-driven actions.
+
+- Proliferation and diffusion: Dual-use AI models and military-origin
+  tools risk diffusion to non-state actors, authoritarian governments,
+  and criminal organisations, extending the harm horizon well beyond the
+  original deployment context.
+
+Risk Compounding: Technical failures can trigger legal violations; legal
+gaps can entrench bad practices; and the absence of international norms
+allows dangerous technical practices to proliferate. These risk
+categories are not independent — they amplify one another. Governance
+frameworks must address all three in concert.
+
+5
+
+Hollow House Institute
+
+Government & Military AI
+
+5. Governance and Oversight Framework
+
+A governance-first approach to military AI requires more than policy
+declarations — it demands institutional architecture, enforceable
+standards, and a lifecycle approach that embeds oversight from the
+earliest stages of development through to decommissioning. This section
+proposes a three-layer framework: guiding principles, institutional
+mechanisms, and lifecycle controls.
+
+5.1 Principles for Military AI
+
+The following principles should serve as the foundational commitments
+from which all downstream governance requirements are derived:
+
+- Lawful: All military AI systems must be designed, tested, and deployed
+  in full compliance with applicable domestic law and international
+  humanitarian law. Legal review must precede deployment, not follow it.
+
+- Responsible: Clear and non-diffuse human accountability must be
+  maintained across the entire kill chain or decision chain in which AI
+  operates. Full traceability of AI-influenced decisions must be
+  technically guaranteed.
+
+- Reliable and Secure: Systems must be subject to rigorous testing,
+  adversarial red-teaming, and ongoing cyber resilience assessment
+  before and during operational deployment.
+
+- Aligned with Democratic Values: Military AI programs must be subject
+  to meaningful parliamentary and congressional oversight, and — where
+  consistent with national security — public transparency about their
+  existence, scope, and safeguards.
+
+5.2 Institutional Mechanisms
+
+- Civilian oversight: Parliamentary and congressional committees must
+  develop genuine technical expertise in AI — not merely procedural
+  oversight — to provide meaningful scrutiny of defense AI acquisition
+  and deployment decisions.
+
+- Independent review bodies: Dedicated AI ethics boards, standing
+  red-team units with access to live systems, and independent safety
+  review panels should be established outside the operational chain of
+  command to preserve impartiality.
+
+- Interagency coordination: Defense, foreign affairs, intelligence
+  community, and national standards bodies must operate in concert, with
+  shared frameworks rather than fragmented departmental policies that
+  create governance gaps at the seams.
+
+5.3 Lifecycle Controls
+
+Governance cannot be retrofitted onto AI systems after deployment. The
+following controls must be embedded at each phase of the system
+lifecycle:
+
+  -----------------------------------------------------------------------
+  Lifecycle Phase                     Required Controls
+  ----------------------------------- -----------------------------------
+  Requirements                        Explicit articulation of legal,
+                                      ethical, and safety constraints as
+                                      non-negotiable design requirements
+                                      prior to any development contract
+                                      award.
+
+  Design & Development                Threat modelling, safety case
+                                      documentation, model cards, and
+                                      formal documentation of known
+                                      limitations, failure modes, and
+                                      adversarial vulnerabilities.
+
+  Testing & Evaluation                Scenario-based operational testing,
+                                      adversarial red-teaming,
+                                      independent evaluation against IHL
+                                      compliance criteria, and structured
+                                      operational piloting before full
+                                      deployment.
+
+  Deployment & Monitoring             Continuous performance monitoring,
+                                      mandatory incident reporting, and
+                                      technically enforced kill-switch
+                                      and rollback mechanisms operable by
+                                      authorised human operators.
+
+  Decommissioning                     Defined and pre-agreed criteria for
+                                      the retirement of systems found to
+                                      be unsafe, persistently unreliable,
+                                      or rendered obsolete by technical
+                                      or legal developments.
+  -----------------------------------------------------------------------
+
+6
+
+Hollow House Institute
+
+Government & Military AI
+
+6. International Norms and Agreements
+
+No single state can resolve the governance challenges of military AI
+unilaterally. The systemic nature of the risks — arms race dynamics,
+escalation, proliferation — requires coordinated international action.
+This section surveys the existing legal landscape and identifies the
+most promising avenues for norm development.
+
+6.1 Existing Legal Framework
+
+The foundational instruments of international law apply to AI-enabled
+military systems regardless of whether they were drafted with AI in
+mind:
+
+- The UN Charter: Governs the use of force, including the prohibition of
+  aggression and the right of self-defence — principles that apply
+  equally to AI-enabled kinetic operations.
+
+- International Humanitarian Law: The Geneva Conventions and their
+  Additional Protocols impose binding obligations of distinction,
+  proportionality, and precaution that must be met by any weapon system,
+  whether operated by a human or an algorithm.
+
+- International Human Rights Law: Applies in all circumstances, imposing
+  requirements of legality, necessity, and proportionality on lethal
+  force even outside armed conflict — including in AI-enabled law
+  enforcement and border security contexts.
+
+6.2 Emerging Norms
+
+- Political declarations: A growing number of states have issued
+  political declarations on responsible military AI use, including
+  commitments to meaningful human control, legal review, and restraint
+  in autonomous weapons development. These declarations are not legally
+  binding but represent an evolving normative baseline.
+
+- Lethal Autonomous Weapons Systems (LAWS) at the UN: Ongoing
+  multilateral discussions under the Convention on Certain Conventional
+  Weapons (CCW) Group of Governmental Experts have produced no binding
+  agreement but have established shared vocabulary and identified key
+  areas of concern, including the meaning and scope of "meaningful human
+  control."
+
+6.3 Confidence-Building Measures
+
+In the absence of comprehensive treaty frameworks, confidence-building
+measures can reduce the risk of miscalculation and lay the groundwork
+for more durable agreements:
+
+- Transparency reporting: States publishing transparency reports on
+  their military AI testing protocols, safety standards, and doctrinal
+  frameworks — without compromising operational security — contribute to
+  a common understanding of acceptable practice.
+
+- Crisis communication channels: Dedicated hotlines and incident
+  notification protocols for AI-related military incidents — analogous
+  to the Cold War-era nuclear risk reduction centres — would reduce the
+  risk of misattribution and inadvertent escalation.
+
+- Joint exercises and verification pilots: Bilateral or multilateral
+  exercises involving AI-enabled systems, with agreed observation and
+  verification protocols, can build trust and demonstrate good-faith
+  commitments to responsible use among allied states.
+
+7
+
+Hollow House Institute
+
+Government & Military AI
+
+7. Policy Recommendations
+
+The following recommendations are directed at three principal audiences:
+national governments and legislatures; defense ministries and armed
+forces; and multilateral and international bodies. They are intended to
+be actionable within existing institutional structures while building
+toward more durable long-term governance architectures.
+
+7.1 For National Governments
+
+- Codify a national military AI policy with explicit red lines — for
+  example, a legislatively mandated prohibition on fully autonomous
+  targeting systems operating without meaningful human control over the
+  decision to use lethal force.
+
+- Mandate independent safety and ethics review, conducted by bodies
+  outside the operational chain of command, for all high-risk AI
+  capabilities prior to any operational deployment.
+
+- Require rigorous test, evaluation, verification, and validation (TEVV)
+  against legally defined performance and safety thresholds as a
+  prerequisite for any acquisition approval or deployment authority.
+
+- Invest substantially in AI literacy programs for senior commanders,
+  civilian policymakers, and legislative oversight bodies, ensuring that
+  those responsible for governance possess the technical understanding
+  to exercise it meaningfully.
+
+7.2 For Defense Ministries and Armed Forces
+
+- Adopt comprehensive internal AI governance frameworks, including
+  standardised model cards, AI risk registers, and mandatory incident
+  reporting protocols for all operational AI systems.
+
+- Standardise and formally define human-in-the-loop and
+  human-on-the-loop requirements for specific mission types, in
+  accordance with the nature of the system's outputs and the
+  consequences of its decisions.
+
+- Institutionalise red-teaming and adversarial testing as a standard,
+  resourced, and mandatory component of all AI acquisition and upgrade
+  processes — not an optional or ad hoc activity.
+
+- Integrate fail-safe mechanisms, system-level kill switches, and clear
+  rules of engagement for all AI-enabled systems into acquisition
+  contracts as non-negotiable technical requirements.
+
+7.3 For International Cooperation
+
+- Support and actively engage with multilateral forums dedicated to the
+  responsible development and use of military AI, including the CCW
+  Group of Governmental Experts on LAWS and emerging bilateral dialogue
+  frameworks.
+
+- Pursue interoperable technical standards for logging, auditability,
+  and safety verification across allied systems, enabling joint
+  operations while maintaining coherent accountability frameworks.
+
+- Develop shared crisis protocols — agreed in advance — for responding
+  to AI-related military incidents, including misfires, autonomous
+  system malfunctions, and misattribution events, to reduce the risk of
+  escalation under conditions of uncertainty.
+
+Priority Action: The single highest-leverage action available to most
+governments is the establishment of a mandatory, independent AI safety
+and ethics review process as a gating condition for any high-risk
+military AI capability entering operational service. No deployment
+without review should become a firm institutional norm, not an
+aspiration.
+
+8
+
+Hollow House Institute
+
+Government & Military AI
+
+8. Conclusion
+
+Military AI is not optional for states — it is already embedded in
+intelligence processing, logistics management, and cyber operations
+worldwide. The question before governments, armed forces, legislatures,
+and international bodies is not whether to engage with military AI, but
+how to govern it in ways that are lawful, accountable, and consistent
+with the values of democratic societies and the rules of the
+international order.
+
+A governance-first approach is not a counsel of technological timidity.
+It does not require states to forfeit strategic advantage or abandon
+capability development. What it does require is that the institutional
+infrastructure of governance — legal review, independent oversight,
+safety testing, accountability mechanisms, and international norms — be
+developed in parallel with, and as a condition of, the capabilities
+themselves.
+
+The risks of the alternative are not hypothetical. AI systems that
+misclassify targets, operate without meaningful human oversight, or
+accelerate crises beyond the pace of human decision-making represent
+strategic liabilities, not just ethical failures. States that deploy AI
+recklessly invite the kind of incidents that erode domestic trust,
+damage alliances, and invite international condemnation.
+
+Responsible military AI is not merely a technical challenge; it is a
+constitutional, ethical, and geopolitical one. States that lead on
+governance will shape the norms that everyone else will eventually have
+to live with. The window for establishing durable, legitimate, and
+broadly accepted frameworks remains open — but it is narrowing with each
+year of uncoordinated deployment and deferred decision-making.
+
+The Hollow House Institute calls on governments, defense ministries,
+legislatures, and international bodies to treat AI governance not as a
+constraint on military capability but as the condition under which such
+capability can be lawfully, safely, and sustainably exercised. The
+moment for principled leadership is now.
+
+Central Finding: States that invest in governance infrastructure
+alongside capability development will achieve more durable strategic
+advantage than those that race to deploy without oversight — because
+trust, legality, and international legitimacy are themselves strategic
+assets.
+
+9
+
+Hollow House Institute
+
+Independent Research for Governance, Technology, and Public Interest
+
+This white paper is published by the Hollow House Institute as an
+open-access working document. It is intended to contribute to
+evidence-based policy deliberation and is available for citation,
+adaptation, and distribution under a Creative Commons Attribution 4.0
+International (CC BY 4.0) license.
+
+To cite this document:
+
+[AUTHOR LAST NAME], [AUTHOR INITIALS]. (2026). Government and Military
+Use of Artificial Intelligence: A Governance-First Framework for
+Responsible Deployment. Hollow House Institute. https://doi.org/[DOI TO
+BE ASSIGNED]
+
+Contact:
+
+[[email protected]] | [www.hollowhouse.org]
+
+Zenodo Upload Checklist:
+
+☐ Complete all metadata fields on the Title Page before upload
+
+☐ Assign ORCID to all contributing authors
+
+☐ Select "White Paper" as publication type in Zenodo
+
+☐ Set license to CC BY 4.0
+
+☐ Add keywords verbatim from the Keywords line on the Abstract Page
+
+☐ Link to any related datasets or supplementary materials
+
+☐ Reserve DOI and insert into citation block above before publishing
+
+Hollow House Institute | Est. [YEAR] | [City, Country]
