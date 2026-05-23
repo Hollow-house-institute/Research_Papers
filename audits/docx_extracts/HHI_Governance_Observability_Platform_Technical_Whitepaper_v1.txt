@@ -966,8 +966,7 @@ and audit-ready evidence of governance activity cannot be satisfied by a
 governance system that loses escalation records during system events. An
 escalation that disappeared during a restart cannot be attested to,
 cannot be included in a compliance chain, and cannot serve as evidence
-of organizational due diligence. Survivability is therefore not an
-engineering nicety — it is a compliance requirement.
+of organizational due diligence. Survivability is therefore foundational to maintaining audit-ready governance continuity and operational accountability.
 
 9.3 Governance Survivability and Recovery Continuity
 
