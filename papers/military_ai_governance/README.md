@@ -18,3 +18,16 @@ DOI-bound Hollow House Institute governance white paper focused on operational A
 - Standard legal footer: `papers/_shared/NOT_LEGAL_ADVICE_FOOTER.md`
 
 All standards crosswalks should be treated as illustrative interoperability mappings. HHI runtime governance infrastructure supports governance assurance, traceability, and operational evidence continuity. It does not independently determine legal compliance.
+
+## Governance Publication Alignment
+
+This publication aligns with HHI publication governance controls for:
+- illustrative interoperability mappings
+- governance assurance boundary preservation
+- operational/legal scope separation
+- runtime observability positioning
+- replay-capable evidence continuity
+- provider/deployer role distinction
+- standards citation normalization
+
+HHI runtime governance infrastructure strengthens operational governance assurance and traceability. It does not independently certify regulatory compliance or replace legal review.
