@@ -1,0 +1,14 @@
+{
+  "authority_holder": "Amy Pierce Bui",
+  "organization": "Hollow House Institute",
+  "authority_type": "canonical_governance_origin",
+  "publication_classification": "DOI_ready_governance_publication",
+  "governance_state": "PRE_RELEASE_FORMALIZATION",
+  "runtime_alignment": {
+    "execution_time_governance": true,
+    "telemetry_continuity": true,
+    "replay_continuity": true,
+    "decision_boundary_enforcement": true,
+    "stop_authority_preservation": true
+  }
+}
