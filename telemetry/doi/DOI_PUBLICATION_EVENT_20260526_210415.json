@@ -1,0 +1,13 @@
+{
+  "event": "doi_publication_registered",
+  "timestamp": "2026-05-27T02:04:15Z",
+  "repository": "Research_Papers",
+  "publication": "Government and Military Use of Artificial Intelligence: A Governance-First Framework for Responsible Deployment",
+  "doi": "10.5281/zenodo.20404182",
+  "release_tag": "v1.0.0-military-ai-governance-doi-final",
+  "governance_state": "LOCKED",
+  "publication_state": "DOI_PUBLISHED",
+  "replay_capable": true,
+  "checksum_bound": true,
+  "runtime_alignment": true
+}
