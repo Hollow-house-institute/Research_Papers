@@ -1,0 +1,20 @@
+{
+  "artifact": "Government_and_Military_Use_of_Artificial_Intelligence",
+  "classification": "execution_time_governance_whitepaper",
+  "governed_authorship": true,
+  "human_origin_meaning": "Amy Pierce Bui",
+  "organizational_authority": "Hollow House Institute",
+  "ai_assisted_structure": true,
+  "canonical_authority": {
+    "github_org": "https://github.com/Hollow-house-institute",
+    "doi": "https://doi.org/10.5281/zenodo.20044740",
+    "orcid": "https://orcid.org/0009-0009-4806-1949"
+  },
+  "continuity_requirements": [
+    "replay_capable",
+    "checksum_bound",
+    "exportable",
+    "append_only_telemetry",
+    "runtime_survivability"
+  ]
+}

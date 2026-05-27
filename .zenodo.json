@@ -6,5 +6,18 @@
       "orcid": "0009-0009-4806-1949"
     }
   ],
-  "doi": "10.5281/zenodo.20374031"
+  "description": "Execution-time governance framework for government and military AI deployment emphasizing telemetry continuity, Decision Boundary enforcement, Stop Authority preservation, replay-capable evidence, and longitudinal accountability.",
+  "license": "cc-by-4.0",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "access_right": "open",
+  "keywords": [
+    "AI Governance",
+    "Execution-Time Governance",
+    "Military AI",
+    "Behavioral Governance",
+    "Governance Telemetry",
+    "Human Oversight",
+    "Continuous Assurance"
+  ]
 }
