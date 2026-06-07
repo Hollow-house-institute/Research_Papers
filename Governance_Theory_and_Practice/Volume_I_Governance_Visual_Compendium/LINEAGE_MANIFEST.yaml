@@ -1,0 +1,25 @@
+series: HHI Governance Theory and Practice
+
+volume: I
+
+title: Governance Visual Compendium
+
+status: canonical
+
+lineage_type: ROOT_DOCTRINE
+
+downstream:
+
+  - Hollow_House_Standards_Library
+  - HHI_GOV_01
+  - HHI_Runtime_Core
+  - pcgc
+  - Governance_Infrastructure_Layer
+  - hhi_audit_runtime
+  - HHI_Audits
+  - HHI_Human_Continuity_Archive
+
+authority:
+
+  founder: Amy Pierce Bui
+  organization: Hollow House Institute
